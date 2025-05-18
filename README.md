@@ -1,1 +1,1 @@
-# quiz_game
+# Simple python quiz app 
